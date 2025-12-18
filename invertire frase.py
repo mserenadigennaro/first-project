@@ -1,5 +1,5 @@
 #chiedi all'utente di inserire una frase
-frase=input("Inserisci una frase")
+frase=input("Inserisci una frase: ")
 
 #dividi la frase in parole
 parole=frase.split()
